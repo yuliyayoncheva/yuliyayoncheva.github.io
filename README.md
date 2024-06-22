@@ -10,33 +10,35 @@ generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-li
 
 💪 Experience
 ---------
-**Research Faculty** | [The Empathy Project](https://www.empathyproject.com/our-team) 2024 -
 
 **Principal Investigator** | Program for Medical Education Innovations and Research Innovation Grant, 2024 - 2025
 
+**Research Faculty** | [The Empathy Project](https://www.empathyproject.com/our-team), 2024 - 
 
 🎓 Education
 ---------
-- PhD neuroscience | Weill Cornell Graduate School of Medical Sciences
-- BA neuroscience & mathematics (summa cum laude) | Kenyon College
-- life sciences | King's College London
+
+PhD neuroscience | Weill Cornell Graduate School of Medical Sciences
+BA neuroscience & mathematics (summa cum laude) | Kenyon College
+life sciences | King's College London
 
 🔭 Research Areas 
 ---------
 #### Generative AI in Education 
 - communication skills assessment in medical education
-- quantitative research on learner misconceptions about generative AI use
+- research on learner approaches to generative AI use
 
 #### Precision Education
 - [phased-innovation award,](https://osf.io/rsx36/?view_only=16881cfb3dc1455f875bb3ab53314344) National Institute of Mental Health
+
 #### Communication Skills 
 - [learning tool award,](https://programs.clearerthinking.org/effective_trust_repair.html) Clearer Thinking
 
 🌱 Invited Talks & Teaching
 --------
-- invited expert and presenter, Child Study Center
+- invited expert, Child Study Center
 	- [how to teach better decision-making](https://osf.io/j39nr)
- 	- [generative AI literacy](https://osf.io/qmjwf)
+	- [generative AI literacy](https://osf.io/qmjwf)
 - workshop developer and [presenter](https://linktr.ee/AI.B.C), NYU Health Sciences Library
 - speaker, NYU Teaching & Learning with Generative AI [conference](https://wp.nyu.edu/2023aiconference/schedule/)
 - mentor, AAMC Northeast Group on Educational Affairs 2024 Prompt-a-thon
