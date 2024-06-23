@@ -22,7 +22,7 @@ PhD neuroscience | Weill Cornell Graduate School of Medical Sciences
 BA neuroscience & mathematics (summa cum laude) | Kenyon College
 life sciences | King's College London
 
-🔭 Research Areas 
+🔬 Research Areas 
 ---------
 #### Generative AI in Education 
 - communication skills assessment in medical education
@@ -39,12 +39,14 @@ life sciences | King's College London
 
 - workshop developer and [presenter](https://linktr.ee/AI.B.C), NYU Health Sciences Library
 - speaker, NYU Teaching & Learning with Generative AI [conference](https://wp.nyu.edu/2023aiconference/schedule/)
-- mentor, AAMC Northeast Group on Educational Affairs 2024 Prompt-a-thon
+- mentor, AAMC Northeast Group on Educational Affairs Prompt-a-thon
 - invited expert, Child Study Center
 	- [how to teach better decision-making](https://osf.io/j39nr)
 	- [generative AI literacy](https://osf.io/qmjwf)
 
 [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
+
+[NIH biosketch: contributions to science](https://docs.google.com/document/d/e/2PACX-1vRJ0lEUf_TSBqkA4jTcXpoMKsa5XQzKaqASRqGBFHYO07jOWooa68JgidRiQEjFx7gQW7Au8lRNB5sn/pub)
 
 <!--
 **yuliyayoncheva/yuliyayoncheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
