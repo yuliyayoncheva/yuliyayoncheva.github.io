@@ -10,9 +10,9 @@ generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-li
 💪 Experience
 ---------
 
-**Research Faculty** | [Institute for Innovations in Medical Education](https://med.nyu.edu/departments-institutes/innovations-medical-education/our-programs-divisions/center-empathy-medicine), 2024 - present
+**Research Faculty** | 2024 -     | [Institute for Innovations in Medical Education](https://med.nyu.edu/departments-institutes/innovations-medical-education/our-programs-divisions/center-empathy-medicine) 
 
-**Principal Investigator** | Program for Medical Education Innovations and Research Innovation Grant, 2024 - 2025
+**Principal Investigator** | 2024 - 2025 | Program for Medical Education Innovations and Research Innovation Grant
 
 
 🎓 Education
@@ -46,7 +46,7 @@ life sciences | King's College London
 
 [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
 
-[NIH biosketch: contributions to science](https://docs.google.com/document/d/e/2PACX-1vRJ0lEUf_TSBqkA4jTcXpoMKsa5XQzKaqASRqGBFHYO07jOWooa68JgidRiQEjFx7gQW7Au8lRNB5sn/pub)
+[biosketch: contributions to science](https://docs.google.com/document/d/e/2PACX-1vRJ0lEUf_TSBqkA4jTcXpoMKsa5XQzKaqASRqGBFHYO07jOWooa68JgidRiQEjFx7gQW7Au8lRNB5sn/pub)
 
 <!--
 **yuliyayoncheva/yuliyayoncheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
