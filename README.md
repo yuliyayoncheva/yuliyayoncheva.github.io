@@ -10,9 +10,9 @@ generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-li
 💪 Experience
 ---------
 
-**Research Faculty** | 2024 -     | [Institute for Innovations in Medical Education](https://med.nyu.edu/departments-institutes/innovations-medical-education/our-programs-divisions/center-empathy-medicine) 
+**Research Faculty**, [Institute for Innovations in Medical Education](https://med.nyu.edu/departments-institutes/innovations-medical-education/our-programs-divisions/center-empathy-medicine), New York NY, 2024 -  
 
-**Principal Investigator** | 2024 - 2025 | Program for Medical Education Innovations and Research Innovation Grant
+**Principal Investigator**, Program for Medical Education Innovations and Research Innovation Grant, 2024 - 2025
 
 
 🎓 Education
