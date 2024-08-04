@@ -1,6 +1,6 @@
  
 ## Yuliya Yoncheva, PhD
-research professor | NYU Grossman School of Medicine
+research professor | NYU Grossman School of Medicine + [The Empathy Project](empathyproject.com/denise)
 
 generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
 
@@ -12,7 +12,7 @@ generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-li
 
 **Research Faculty**, [Institute for Innovations in Medical Education](https://med.nyu.edu/departments-institutes/innovations-medical-education/our-programs-divisions/center-empathy-medicine), New York NY, 2024 -  
 
-**Principal Investigator**, Program for Medical Education Innovations and Research Innovation Grant, 2024 - 2025
+**Principal Investigator**, [Program for Medical Education Innovations and Research](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants) Innovation Grant, 2024 - 2025
 
 
 🎓 Education
