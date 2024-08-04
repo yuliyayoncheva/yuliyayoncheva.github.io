@@ -1,6 +1,6 @@
  
 ## Yuliya Yoncheva, PhD
-research professor | NYU Grossman School of Medicine + [The Empathy Project](empathyproject.com/denise)
+research professor | NYU Grossman School of Medicine + [The Empathy Project](https://www.empathyproject.com/denise)
 
 generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
 
