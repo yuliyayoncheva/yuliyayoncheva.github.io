@@ -8,7 +8,7 @@ generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-li
 
 💜 Going to SXSW EDU 2025?
 ---------
- Vote to bring my session at SXSW EDU: https://panelpicker.sxsw.com/vote/149620 
+ [Vote here](https://panelpicker.sxsw.com/vote/149620) to bring my Curiosity Engaged session to SXSW EDU #PanelPicker 
 
 
 
