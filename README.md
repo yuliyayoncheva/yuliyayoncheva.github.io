@@ -6,12 +6,6 @@ research professor | NYU School of Medicine + [The Empathy Project](https://www.
 generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
 
 
-💜 Going to SXSW EDU 2025?
----------
- [Vote here](https://panelpicker.sxsw.com/vote/149620) to bring my Curiosity Engaged session to SXSW EDU #PanelPicker 
-
-
-
 
 
 💪 Experience
@@ -53,7 +47,6 @@ life sciences | King's College London
 
 [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
 
-[biosketch: contributions to science](https://docs.google.com/document/d/e/2PACX-1vRJ0lEUf_TSBqkA4jTcXpoMKsa5XQzKaqASRqGBFHYO07jOWooa68JgidRiQEjFx7gQW7Au8lRNB5sn/pub)
 
 <!--
 **yuliyayoncheva/yuliyayoncheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,4 +61,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💜 Going to SXSW EDU 2025?
+---------
+ [Vote here](https://panelpicker.sxsw.com/vote/149620) to bring my Curiosity Engaged session to SXSW EDU #PanelPicker 
+
+[biosketch: contributions to science](https://docs.google.com/document/d/e/2PACX-1vRJ0lEUf_TSBqkA4jTcXpoMKsa5XQzKaqASRqGBFHYO07jOWooa68JgidRiQEjFx7gQW7Au8lRNB5sn/pub)
+ 
 -->
