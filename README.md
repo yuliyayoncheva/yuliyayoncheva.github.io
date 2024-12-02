@@ -27,7 +27,8 @@ life sciences | King's College London
 ---------
 #### Generative AI in Education 
 - communication skills assessment in medical education
-- research on learner approaches to generative AI use
+- [foundations](https://github.com/yuliyayoncheva/sxswedu) of accelerating empathy skill mastery 
+- [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) on learner approaches to generative AI use
 
 #### Precision Education
 - [phased-innovation award,](https://osf.io/rsx36/?view_only=16881cfb3dc1455f875bb3ab53314344) National Institute of Mental Health
@@ -40,7 +41,8 @@ life sciences | King's College London
 
 - workshop developer and [presenter](https://linktr.ee/AI.B.C), NYU Health Sciences Library
 - speaker, NYU Teaching & Learning with Generative AI [conference](https://wp.nyu.edu/2023aiconference/schedule/)
-- mentor, AAMC Northeast Group on Educational Affairs Prompt-a-thon
+- contributor, [first](https://doi.org/10.1371/journal.pdig.0000394) generative AI prompt-a-thon in healthcare
+- mentor, AAMC Northeast Group on Educational Affairs prompt-a-thon
 - invited expert, Child Study Center
 	- [how to teach better decision-making](https://osf.io/j39nr)
 	- [generative AI literacy](https://osf.io/qmjwf)
