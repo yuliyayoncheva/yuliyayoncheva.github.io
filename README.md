@@ -8,7 +8,7 @@ generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-li
 
 
 
-💪 Experience
+🧭 Experience
 ---------
 
 **Research Faculty**, [Institute for Innovations in Medical Education](https://med.nyu.edu/departments-institutes/innovations-medical-education/our-programs-divisions/center-empathy-medicine), New York NY, 2024 -  
@@ -23,7 +23,7 @@ PhD neuroscience | Weill Cornell Graduate School of Medical Sciences
 BA neuroscience & mathematics (summa cum laude) | Kenyon College
 life sciences | King's College London
 
-🔬 Research Areas 
+🤖 Research Areas 
 ---------
 #### Generative AI in Education 
 - communication skills assessment in medical education
