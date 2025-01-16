@@ -27,8 +27,8 @@ life sciences | King's College London
 ---------
 #### Generative AI in Education 
 - communication skills assessment in medical education
-- [foundations](https://github.com/yuliyayoncheva/sxswedu) of accelerating empathy skill mastery 
-- [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) on learner approaches to generative AI use
+- foundations of accelerating empathy skill mastery 
+- learner-centered [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) and [framework](https://osf.io/a9eh2) 
 
 #### Precision Education
 - [phased-innovation award,](https://osf.io/rsx36/?view_only=16881cfb3dc1455f875bb3ab53314344) National Institute of Mental Health
