@@ -33,7 +33,7 @@ I research the dance between artificial and human intelligence in education, cen
 - phased-innovation award, National Institute of Mental Health
 - [learning tool award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking
 
-  
+---------
 [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
 
 generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
