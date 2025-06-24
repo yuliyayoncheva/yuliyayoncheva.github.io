@@ -1,40 +1,26 @@
  
 Yuliya Yoncheva, PhD
 ---------
-assistant professor | [NYU School of Medicine](https://med.nyu.edu/faculty/yuliya-n-yoncheva) + [The Empathy Project](https://www.empathyproject.com/denise)
-
-generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
+[Learning Systems Designer](https://med.nyu.edu/faculty/yuliya-n-yoncheva) 🧭 [Human-AI Interaction Researcher](https://github.com/yuliyayoncheva/chatbots)
 
 
+I research the dance between artificial and human intelligence in education, centering on amplifying **human agency** with machines aiding feedback and growth. My work builds with those who believe technology should handle computations so learners and educators can focus on context and connection.
 
-
-🧭 Experience
+🌱 Research Areas 
 ---------
-
-**Research Faculty**, [Institute for Innovations in Medical Education](https://med.nyu.edu/departments-institutes/innovations-medical-education/), New York NY, 2024 -  
-
-**Principal Investigator**, [Program for Medical Education Innovations and Research](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants) Innovation Grant, 2024 - 2025
-
-
-🎓 Education
----------
-
-PhD neuroscience | Weill Cornell Graduate School of Medical Sciences
-BA neuroscience & mathematics (summa cum laude) | Kenyon College
-life sciences | King's College London
-
-🤖 Research Areas 
----------
-#### Generative AI in Education 
-- communication skills assessment in medical education
-- foundations of accelerating empathy skill mastery 
+- generative AI in education
+- communication skills assessment in [medical education](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants)
+- foundations of accelerating [empathy](https://www.empathyproject.com/denise) skill mastery
 - learner-centered [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) and [frameworks](https://osf.io/8vd3s)
 
 #### Precision Education
-- [phased-innovation award,](https://osf.io/rsx36/?view_only=16881cfb3dc1455f875bb3ab53314344) National Institute of Mental Health
+- [phased-innovation award,](https://osf.io/rsx36/?view_only=16881cfb3dc1455f875bb3ab53314344) 
 
-#### Communication Skills 
-- [learning tool award,](https://programs.clearerthinking.org/effective_trust_repair.html) Clearer Thinking
+🌱 Recognition
+--------
+
+- phased-innovation award, National Institute of Mental Health
+- [learning tool award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking
 
 🌱 Invited Talks & Teaching
 --------
@@ -48,6 +34,9 @@ life sciences | King's College London
 	- [generative AI literacy](https://osf.io/qmjwf)
 
 [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
+
+generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
+
 
 
 <!--
