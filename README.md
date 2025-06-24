@@ -4,7 +4,7 @@ Yuliya Yoncheva, PhD
 [Learning Systems Designer](https://med.nyu.edu/faculty/yuliya-n-yoncheva) 🧭 [Human-AI Interaction Researcher](https://github.com/yuliyayoncheva/chatbots)
 
 
-I research the dance between artificial and human intelligence in education, centered on amplifying **human agency** as machines aid feedback and growth. 
+Researching the dance between artificial and human intelligence in education, I center on amplifying **human agency** as machines aid feedback and growth. 
 
 Building with those who believe technology should handle computations so learners and educators can focus on context and connection.
 
