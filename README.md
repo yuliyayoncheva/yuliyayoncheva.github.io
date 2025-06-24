@@ -13,8 +13,19 @@ I research the dance between artificial and human intelligence in education, cen
 - foundations of accelerating [empathy](https://www.empathyproject.com/denise) skill mastery
 - learner-centered [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) and [frameworks](https://osf.io/8vd3s)
 
-#### Precision Education
-- [phased-innovation award,](https://osf.io/rsx36/?view_only=16881cfb3dc1455f875bb3ab53314344) 
+
+
+
+🌱 Invited Talks & Teaching
+--------
+
+- workshop developer and [presenter](https://linktr.ee/AI.B.C), NYU Health Sciences Library
+- speaker, NYU Teaching & Learning with Generative AI [conference](https://wp.nyu.edu/2023aiconference/schedule/)
+- AI mentor, AAMC Northeast Group on Educational Affairs [prompt-a-thon](https://doi.org/10.1371/journal.pdig.0000394)
+- invited expert, Child Study Center
+	- [how to teach better decision-making](https://osf.io/j39nr)
+	- [generative AI literacy](https://osf.io/qmjwf)
+
 
 🌱 Recognition
 --------
@@ -22,17 +33,7 @@ I research the dance between artificial and human intelligence in education, cen
 - phased-innovation award, National Institute of Mental Health
 - [learning tool award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking
 
-🌱 Invited Talks & Teaching
---------
-
-- workshop developer and [presenter](https://linktr.ee/AI.B.C), NYU Health Sciences Library
-- speaker, NYU Teaching & Learning with Generative AI [conference](https://wp.nyu.edu/2023aiconference/schedule/)
-- contributor, [first](https://doi.org/10.1371/journal.pdig.0000394) generative AI prompt-a-thon in healthcare
-- AI mentor, AAMC Northeast Group on Educational Affairs prompt-a-thon
-- invited expert, Child Study Center
-	- [how to teach better decision-making](https://osf.io/j39nr)
-	- [generative AI literacy](https://osf.io/qmjwf)
-
+  
 [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
 
 generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
