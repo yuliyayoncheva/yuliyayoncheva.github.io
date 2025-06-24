@@ -4,7 +4,9 @@ Yuliya Yoncheva, PhD
 [Learning Systems Designer](https://med.nyu.edu/faculty/yuliya-n-yoncheva) 🧭 [Human-AI Interaction Researcher](https://github.com/yuliyayoncheva/chatbots)
 
 
-I research the dance between artificial and human intelligence in education, centering on amplifying **human agency** with machines aiding feedback and growth. My work builds with those who believe technology should handle computations so learners and educators can focus on context and connection.
+I research the dance between artificial and human intelligence in education, centered on amplifying **human agency** as machines aid feedback and growth. 
+
+Building with those who believe technology should handle computations so learners and educators can focus on context and connection.
 
 🌱 Research Areas 
 ---------
@@ -21,7 +23,7 @@ I research the dance between artificial and human intelligence in education, cen
 
 - workshop developer and [presenter](https://linktr.ee/AI.B.C), NYU Health Sciences Library
 - speaker, NYU Teaching & Learning with Generative AI [conference](https://wp.nyu.edu/2023aiconference/schedule/)
-- AI mentor, AAMC Northeast Group on Educational Affairs [prompt-a-thon](https://doi.org/10.1371/journal.pdig.0000394)
+- AI mentor, medical education [prompt-a-thons](https://www.aamc.org/about-us/mission-areas/medical-education/advancing-ai-resource-collection/ai-prompt-thon-resources-sample-cases-tasks-and-prompts-teach-use-ai-clinical-reasoning)
 - invited expert, Child Study Center
 	- [how to teach better decision-making](https://osf.io/j39nr)
 	- [generative AI literacy](https://osf.io/qmjwf)
