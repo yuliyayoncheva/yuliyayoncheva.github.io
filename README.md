@@ -10,7 +10,7 @@ Building with those who believe technology should handle computations so learner
 
 🌱 Research Areas 
 ---------
-- generative AI in education
+- generative AI for patient education and counseling 
 - communication skills assessment in [medical education](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants)
 - foundations of accelerating [empathy](https://www.empathyproject.com/denise) skill mastery
 - learner-centered [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) and [frameworks](https://osf.io/8vd3s)
