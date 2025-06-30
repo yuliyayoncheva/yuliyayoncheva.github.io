@@ -4,16 +4,17 @@ Yuliya Yoncheva, PhD
 [Learning Systems Designer](https://med.nyu.edu/faculty/yuliya-n-yoncheva) 🧭 [Human-AI Interaction Researcher](https://github.com/yuliyayoncheva/chatbots)
 
 
-Researching the dance between artificial and human intelligence in education, I center on amplifying **human agency** as machines aid feedback and growth. 
+**Co-creating the future** where artificial and human intelligence dance together in education and healthcare, I center on amplifying human agency as machines aid feedback and growth.
 
-Building with those who believe technology should handle computations so learners and educators can focus on context and connection.
+Building **participatory learning systems** with those who believe technology should handle computations so patients, learners, and educators can focus on context and connection – fostering meaningful participation in their own care and learning. 
+
 
 🌱 Research Areas 
 ---------
-- generative AI for patient education and counseling 
-- communication skills assessment in [medical education](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants)
+- generative AI for participatory patient education and counseling 
+- co-designed communication skills assessment in [medical education](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants)
 - foundations of accelerating [empathy](https://www.empathyproject.com/denise) skill mastery
-- learner-centered [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) and [frameworks](https://osf.io/8vd3s)
+- co-creation approaches to learner-centered [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) and [frameworks](https://osf.io/8vd3s)
 
 
 
@@ -31,9 +32,10 @@ Building with those who believe technology should handle computations so learner
 
 🌱 Recognition
 --------
-
-- phased-innovation award, National Institute of Mental Health
-- [learning tool award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking
+- [AI in medical education grant](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr Foundation, 2025
+- NYU Program for medical education innovations & research grant, 2024
+- [learning tool award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking, 2021
+- phased-innovation award, National Institute of Mental Health, 2019
 
 ---------
 [curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
