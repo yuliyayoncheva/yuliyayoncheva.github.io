@@ -8,6 +8,7 @@ Yuliya Yoncheva, PhD
 
 Building **participatory learning systems** with those who believe technology should handle computations so patients, learners, and educators can focus on context and connection – fostering meaningful participation in their own care and learning. 
 
+[personal statement](https://docs.google.com/document/d/1Ecv9vHGLXWX6W1Jbz4JaJ3fJ-OCho-emzKtNP__GGG4/edit?usp=drive_link)
 
 🌱 Research Areas 
 ---------
