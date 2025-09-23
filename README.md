@@ -23,15 +23,15 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 
 🌱 Recognition
 --------
-- [AI in medical education grant](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr Foundation, 2025
-- [NYU Program for medical education innovations & research grant](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants), 2024
-- [Learning tool award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking, 2021
+- AI in Medical Education [grant](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr Foundation, 2025
+- NYU Program for Medical Education Innovations & Research [grant](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants), 2024
+- Learning Tool [award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking, 2021
 - Phased-innovation award, National Institute of Mental Health, 2019
 
 🌱 Decision Education
 ---------
 - Invited expert, Child Study Center
-	- [how to teach better decision-making](https://osf.io/j39nr)
+  - [how to teach better decision-making](https://osf.io/j39nr)
 - Grassroots peer group leader for decision science professionals 
 
 ---------
