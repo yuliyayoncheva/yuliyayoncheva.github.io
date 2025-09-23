@@ -1,45 +1,40 @@
  
-Yuliya Yoncheva, PhD
+[Yuliya Yoncheva, PhD](https://www.linkedin.com/in/yuliya-yoncheva/)
 ---------
-[Learning Systems Designer](https://med.nyu.edu/faculty/yuliya-n-yoncheva) 🧭 [Human-AI Interaction Researcher](https://github.com/yuliyayoncheva/chatbots)
+Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 Evaluation Specialist
+
+**Advancing educational outcomes** through rigorous program evaluation and innovative assessment methods. 
 
 
-**Co-creating the future** where artificial and human intelligence dance together in education and healthcare, I center on amplifying human agency as machines aid feedback and growth.
-
-Building **participatory learning systems** with those who believe technology should handle computations so patients, learners, and educators can focus on context and connection – fostering meaningful participation in their own care and learning. 
-
-[personal statement](https://docs.google.com/document/d/1Ecv9vHGLXWX6W1Jbz4JaJ3fJ-OCho-emzKtNP__GGG4/edit?usp=drive_link)
-
-🌱 Research Areas 
+🌱 Evaluation Expertise
 ---------
-- generative AI for participatory patient education and counseling 
-- co-designed communication skills assessment in [medical education](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants)
-- foundations of accelerating [empathy](https://www.empathyproject.com/denise) skill mastery
-- co-creation approaches to learner-centered [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) and [frameworks](https://osf.io/8vd3s)
+- K-12 program evaluation using randomized controlled trials 
+- Neuroimaging applications in educational evaluation
+- AI-enhanced assessment and outcome measurement 
 
 
-
-
-🌱 Invited Talks & Teaching
+🌱 Leadership
 --------
 
-- workshop developer and [presenter](https://linktr.ee/AI.B.C), NYU Health Sciences Library
-- speaker, NYU Teaching & Learning with Generative AI [conference](https://wp.nyu.edu/2023aiconference/schedule/)
-- AI mentor, medical education [prompt-a-thons](https://www.aamc.org/about-us/mission-areas/medical-education/advancing-ai-resource-collection/ai-prompt-thon-resources-sample-cases-tasks-and-prompts-teach-use-ai-clinical-reasoning)
-- invited expert, Child Study Center
-	- [how to teach better decision-making](https://osf.io/j39nr)
-	- [generative AI literacy](https://osf.io/qmjwf)
+- Co-Investigator, $2.1M NIH evaluation of organizational skills training (K-12)
+- Co-founder, AI in Education Special Interest Group (2,800+ members)
+- Principal Investigator, $210K AI applications in precision education assessment
 
 
 🌱 Recognition
 --------
 - [AI in medical education grant](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr Foundation, 2025
-- NYU Program for medical education innovations & research grant, 2024
-- [learning tool award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking, 2021
-- phased-innovation award, National Institute of Mental Health, 2019
+- [NYU Program for medical education innovations & research grant](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants), 2024
+- [Learning tool award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking, 2021
+- Phased-innovation award, National Institute of Mental Health, 2019
+
+🌱 Decision Education
+---------
+- Invited expert, Child Study Center
+	- [how to teach better decision-making](https://osf.io/j39nr)
+- Grassroots peer group leader for decision science professionals 
 
 ---------
-[curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
 
 generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
 
@@ -63,5 +58,13 @@ Here are some ideas to get you started:
  [Vote here](https://panelpicker.sxsw.com/vote/149620) to bring my Curiosity Engaged session to SXSW EDU #PanelPicker 
 
 [biosketch: contributions to science](https://docs.google.com/document/d/e/2PACX-1vRJ0lEUf_TSBqkA4jTcXpoMKsa5XQzKaqASRqGBFHYO07jOWooa68JgidRiQEjFx7gQW7Au8lRNB5sn/pub)
- 
+ - co-creation approaches to learner-centered [research](https://osf.io/sab47?view_only=16881cfb3dc1455f875bb3ab53314344) and [frameworks](https://osf.io/8vd3s)
+ - workshop developer and [presenter](https://linktr.ee/AI.B.C), NYU Health Sciences Library
+- speaker, NYU Teaching & Learning with Generative AI [conference](https://wp.nyu.edu/2023aiconference/schedule/)
+- AI mentor, medical education [prompt-a-thons](https://www.aamc.org/about-us/mission-areas/medical-education/advancing-ai-resource-collection/ai-prompt-thon-resources-sample-cases-tasks-and-prompts-teach-use-ai-clinical-reasoning)
+- invited expert, Child Study Center
+	- [how to teach better decision-making](https://osf.io/j39nr)
+	- [generative AI literacy](https://osf.io/qmjwf)
+[curriculum vitae](https://docs.google.com/document/d/e/2PACX-1vR3RcpUGNQ-rcWsGTShTm3G4k24vE5bOUzNGAHdiiO_f7d3ww4u9mJFjDvT1CLrHNcTtrgTN_W0028U/pub)
+
 -->
