@@ -5,6 +5,11 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 
 **Advancing educational outcomes** through rigorous program evaluation and innovative assessment methods. 
 
+[LinkedIn](https://www.linkedin.com/in/yuliya-yoncheva/) | [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending)
+ | [Substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
+
+
+
 
 🌱 Evaluation Expertise
 ---------
@@ -30,16 +35,11 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 
 🌱 Decision Education
 ---------
-- Invited expert, Child Study Center
-  - [how to teach better decision-making](https://osf.io/j39nr)
 - Grassroots peer group leader for decision science professionals 
+- Invited expert, Child Study Center
+  - [How to teach better decision-making](https://osf.io/j39nr)
 
----------
 
-[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending)
- | [Substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
-
----------
 
 <!--
 **yuliyayoncheva/yuliyayoncheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
