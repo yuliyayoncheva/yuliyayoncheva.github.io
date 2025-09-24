@@ -17,14 +17,14 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 --------
 
 - Co-Investigator, $2.1M NIH evaluation of organizational skills training (K-12)
-- Co-founder, AI in Education Special Interest Group (2,800+ members)
+- Cofounder, AI in Education Special Interest Group (2,800+ members)
 - Principal Investigator, $210K AI applications in precision education assessment
 
 
 🌱 Recognition
 --------
 - AI in Medical Education [grant](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr Foundation, 2025
-- NYU Program for Medical Education Innovations & Research [grant](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants), 2024
+- Program for Medical Education Innovations & Research [grant](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants), 2024
 - Learning Tool [award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking, 2021
 - Phased-innovation award, National Institute of Mental Health, 2019
 
@@ -36,9 +36,10 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 
 ---------
 
-generative curiosity [substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
+[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending)
+ | [Substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
 
-
+---------
 
 <!--
 **yuliyayoncheva/yuliyayoncheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
