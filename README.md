@@ -5,8 +5,7 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 
 **Advancing educational outcomes** through rigorous program evaluation and innovative assessment methods. 
 
-[LinkedIn](https://www.linkedin.com/in/yuliya-yoncheva/) | [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending)
- | [Substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
+[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [Substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
 
 
 
