@@ -34,9 +34,12 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 
 🌱 Decision Education
 ---------
-- Grassroots peer group leader for decision science professionals 
+- Grassroots peer group leader for decision science professionals
+- Peer-reviewed neuroscience study: [temporal discounting in youth](https://pubmed.ncbi.nlm.nih.gov/28411154/)
 - Invited expert, Child Study Center
   - [How to teach better decision-making](https://osf.io/j39nr)
+ 
+
 
 
 
