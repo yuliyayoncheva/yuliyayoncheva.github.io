@@ -3,7 +3,7 @@
 ---------
 Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 Evaluation Specialist
 
-**Advancing educational outcomes** through rigorous program evaluation and innovative assessment methods. 
+**Advancing educational outcomes** through program evaluation and innovative assessment methods. 
 
 [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [Substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
 
@@ -35,9 +35,8 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 🌱 Decision Education
 ---------
 - Grassroots peer group leader for decision science professionals
-- Peer-reviewed neuroscience study: [temporal discounting in youth](https://pubmed.ncbi.nlm.nih.gov/28411154/)
-- Invited expert, Child Study Center
-  - [How to teach better decision-making](https://osf.io/j39nr)
+- Peer-reviewed neuroscience study [Temporal discounting in youth](https://pubmed.ncbi.nlm.nih.gov/28411154/)
+- Invited expert, Child Study Center [How to teach better decision making](https://osf.io/j39nr)
  
 
 
