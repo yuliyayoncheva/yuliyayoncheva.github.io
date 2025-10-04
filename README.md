@@ -36,7 +36,9 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 ---------
 - Grassroots peer group leader for decision science professionals
 - Peer-reviewed neuroscience study [Temporal discounting in youth](https://pubmed.ncbi.nlm.nih.gov/28411154/)
-- Invited expert, Child Study Center [How to teach better decision making](https://osf.io/j39nr)
+- Invited expert, Child Study Center
+	- [How to teach better decision making](https://osf.io/j39nr)
+	- [Media literacy in GenAI era](https://osf.io/qmjwf)
  
 
 
