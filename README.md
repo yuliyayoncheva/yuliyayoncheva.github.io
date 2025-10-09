@@ -10,20 +10,30 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 
 
 
-🌱 Evaluation Expertise
----------
-- K-12 program evaluation using randomized controlled trials 
-- Neuroimaging applications in educational evaluation
-- AI-enhanced assessment and outcome measurement 
 
 
-🌱 Leadership
+🌱 Strategic Leadership
 --------
 
 - Co-Investigator, $2.1M NIH evaluation of organizational skills training (K-12)
 - Cofounder, AI in Education Special Interest Group (2,800+ members)
 - Principal Investigator, $210K AI applications in precision education assessment
 
+
+🌱 Evaluation Expertise
+---------
+- K-12 program evaluation using randomized controlled trials 
+- Neuroimaging applications in educational evaluation
+- AI-enhanced assessment and outcome measurement
+- Mixed-methods lens for educational intervention research
+
+
+🌱 AI in Education Leadership
+---------
+- Session moderator, [Teaching & Learning with AI Symposium](https://wp.nyu.edu/2025notebooklm/), 2025
+- Presenter, inaugural [Teaching with Generative AI Conference](https://wp.nyu.edu/2023aiconference/), 2023
+- Policy advisor on institutional AI integration strategies 
+- Developer of AI fluency frameworks for educators and researchers
 
 🌱 Recognition
 --------
