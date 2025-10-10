@@ -5,8 +5,7 @@ Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 E
 
 Building evaluation frameworks to advance educational outcomes & promote learner agency and decision-making skills for the AI era. 
 
-[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [Substack](https://yuliyayoncheva.substack.com/p/explain-like-im-a-cat-e0f22abb0edf) 
-
+[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [Substack](https://open.substack.com/pub/yuliyayoncheva/p/escaping-the-ai-convenience-trap?r=22jisy)
 
 
 
