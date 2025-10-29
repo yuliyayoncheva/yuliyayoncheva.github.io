@@ -1,8 +1,8 @@
  
 [Yuliya Yoncheva, PhD](https://www.linkedin.com/in/yuliya-yoncheva/)
----------
+--------
 
-Assistant Professor | Research Innovation Lead
+Research Innovation Lead | Assistant Professor
 
 Building evaluation frameworks to advance educational outcomes & promote learner agency and decision-making skills for the AI era. 
 
