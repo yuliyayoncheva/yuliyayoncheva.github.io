@@ -1,7 +1,8 @@
  
 [Yuliya Yoncheva, PhD](https://www.linkedin.com/in/yuliya-yoncheva/)
 ---------
-Educational Intervention Researcher | AI-Enhanced Assessment Innovation | K-12 Evaluation Specialist
+
+Assistant Professor | Research Innovation Lead
 
 Building evaluation frameworks to advance educational outcomes & promote learner agency and decision-making skills for the AI era. 
 
@@ -15,8 +16,8 @@ Building evaluation frameworks to advance educational outcomes & promote learner
 --------
 
 - Co-Investigator, $2.1M NIH evaluation of organizational skills training (K-12)
-- Cofounder, AI in Education Special Interest Group (2,800+ members)
-- Principal Investigator, $210K AI applications in precision education assessment
+- Cofounder, AI in Education Special Interest Group (2,900+ members)
+- Principal Investigator, $210K AI applications in workforce precision education assessment
 
 
 🌱 Evaluation Expertise
