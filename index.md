@@ -1,4 +1,6 @@
  
+[Home](/) | [Bio](/bio)
+
 [Yuliya Yoncheva, PhD](https://www.linkedin.com/in/yuliya-yoncheva/)
 --------
 
