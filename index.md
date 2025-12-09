@@ -24,10 +24,11 @@
 
 🌱 AI in Education Leadership
 ---------
-- Session moderator, [Teaching & Learning with AI Symposium](https://wp.nyu.edu/2025notebooklm/), 2025
-- Presenter, inaugural [Teaching with Generative AI Conference](https://wp.nyu.edu/2023aiconference/), 2023
+- Moderator, [Teaching & Learning with AI symposium](https://wp.nyu.edu/2025notebooklm/), 2025
+- Presenter, [Learning to Teach with GenAI](https://wp.nyu.edu/ltt2025/detailed-schedule/), 2025
+- Presenter, inaugural [Teaching with Generative AI conference](https://wp.nyu.edu/2023aiconference/schedule), 2023
 - Policy advisor on institutional AI integration strategies 
-- Developer of AI fluency frameworks for educators and researchers
+- Developer of [AI fluency](https://linktr.ee/AI.B.C) frameworks for educators and researchers
 
 🌱 Recognition
 --------
