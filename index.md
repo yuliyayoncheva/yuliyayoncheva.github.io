@@ -27,8 +27,8 @@
 - Moderator, [Teaching & Learning with AI symposium](https://wp.nyu.edu/2025notebooklm/), 2025
 - Presenter, [Learning to Teach with GenAI](https://wp.nyu.edu/ltt2025/detailed-schedule/), 2025
 - Presenter, inaugural [Teaching with Generative AI conference](https://wp.nyu.edu/2023aiconference/schedule), 2023
-- Policy advisor on institutional AI integration strategies 
-- Developer of [AI fluency](https://linktr.ee/AI.B.C) frameworks for educators and researchers
+- Policy advisor on institutional AI integration strategies, 2023-
+- Developer of [AI fluency](https://linktr.ee/AI.B.C) frameworks for educators and researchers, 2023-
 
 🌱 Recognition
 --------
