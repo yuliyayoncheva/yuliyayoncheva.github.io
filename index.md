@@ -1,6 +1,5 @@
  
-[Bio](/bio)
-
+[Bio](/bio) | [Upcoming](/upcoming)
 
 [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [Substack](https://open.substack.com/pub/yuliyayoncheva/p/escaping-the-ai-convenience-trap?r=22jisy) ❦ [LinkedIn](https://www.linkedin.com/in/yuliya-yoncheva/)
 
