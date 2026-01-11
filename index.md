@@ -23,6 +23,7 @@
 
 🌱 AI in Education Leadership
 ---------
+- Presenter, [(Re)Designing Pedagogy for the GenAI Era](https://wp.nyu.edu/ltt2026/talk-descriptions/), 2026
 - Moderator, [Teaching & Learning with AI symposium](https://wp.nyu.edu/2025notebooklm/), 2025
 - Presenter, [Learning to Teach with GenAI](https://wp.nyu.edu/ltt2025/detailed-schedule/), 2025
 - Presenter, inaugural [Teaching with Generative AI conference](https://wp.nyu.edu/2023aiconference/schedule), 2023
