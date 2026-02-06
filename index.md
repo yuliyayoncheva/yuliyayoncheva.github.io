@@ -9,7 +9,7 @@
 --------
 
 - Co-Investigator, $2.1M NIH evaluation of organizational skills training (K-12)
-- Cofounder, AI in Education Special Interest Group (2,900+ members)
+- Cofounder, AI in Education Special Interest Group (3,000+ members)
 - Principal Investigator, $210K AI applications in workforce precision education assessment
 
 
