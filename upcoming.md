@@ -1,9 +1,9 @@
 ---
 layout: default
-title: resources
+title: Resources
 ---
 
-# resources 
+# Resources 
 
 [OSF materials](https://osf.io/user/p9xmj)
 
