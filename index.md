@@ -15,7 +15,7 @@ I build frameworks designed to transfer across contexts wherever humans and AI s
 **Principal Investigator** [AI Commuincation Compass](https://macyfoundation.org/our-grantees/ai-in-med-ed) Josiah Macy Jr. Foundation, nationally selected (2025)  
 **Principal Investigator** [AI in Workforce Education](https://med.nyu.edu/faculty/yuliya-n-yoncheva) (2024)  
 **Co-founder** [AI in Education](https://podnetwork.org/governance/sigs/) POD Network Special Interest Group (2023)  
-**Awardee** [Learning Tool Grant](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking (2021)  
+**Awardee** [Learning Tool Grant](https://programs.clearerthinking.org/effective_trust_repair.html) Clearer Thinking (2021)  
 **Professional profile** [NYU Grossman School of Medicine](https://med.nyu.edu/faculty/yuliya-n-yoncheva)
 
   
