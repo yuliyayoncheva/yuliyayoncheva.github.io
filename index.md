@@ -8,10 +8,12 @@ I study whether AI-based feedback produces genuine learning or the appearance of
 I build frameworks designed to transfer across contexts wherever humans and AI systems share epistemic territory.
 
 
-🎥 [Moderating Teaching & Learning with AI symposium](https://wp.nyu.edu/2025notebooklm/), October 2025
+🎥 [Moderating The Research Track](https://wp.nyu.edu/2025notebooklm/) @ Teaching & Learning with AI symposium (2025)
+
+
 - Presenter, [Teaching Decision Literacy Through Discovery-Based Generative AI Simulation](https://wp.nyu.edu/ltt2026/talk-descriptions/), (Re)Designing Pedagogy for the GenAI Era, 2026
-- Principal Investigator, [AI Commuincation Compass](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr. Foundation, nationally selected (2025–)
-- Principal Investigator, [AI in Workforce Education](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants) (2024–2025)
+- Principal Investigator, [AI Commuincation Compass](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr. Foundation, nationally selected (2025)
+- Principal Investigator, AI in Workforce Education (2024)
 - Awardee, [Learning Tool Grant](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking (2021)
 - Co-founder, POD Network [AI in Education](https://podnetwork.org/governance/sigs/) Special Interest Group, 3,000+ members
 - Professional profile, [NYU Grossman School of Medicine](https://med.nyu.edu/faculty/yuliya-n-yoncheva)
