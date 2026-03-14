@@ -1,52 +1,24 @@
  
 [Bio](/bio) | [Resources](/upcoming)
 
-[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [Substack](https://open.substack.com/pub/yuliyayoncheva/p/escaping-the-ai-convenience-trap?r=22jisy) ❦ [LinkedIn](https://www.linkedin.com/in/yuliya-yoncheva/)
 
 
+I study whether AI-based feedback produces genuine learning or the appearance of it. My research spans two empirical threads: the conditions under which AI feedback supports vs. erodes metacognitive calibration in graduate professional education, and three-phase scaffolding of values-based decision-making under uncertainty.
 
-🌱 Strategic Leadership
---------
-
-- Co-Investigator, $2.1M NIH evaluation of organizational skills training (K-12)
-- Cofounder, AI in Education Special Interest Group (3,000+ members)
-- Principal Investigator, $210K AI applications in workforce precision education assessment
+I build frameworks designed to transfer across contexts wherever humans and AI systems share epistemic territory.
 
 
-🌱 Evaluation Expertise
----------
-- K-12 program evaluation using randomized controlled trials 
-- Neuroimaging applications in educational evaluation
-- AI-enhanced assessment and outcome measurement
-- Mixed-methods lens for educational intervention research
+🎥 [Moderating Teaching & Learning with AI symposium](https://wp.nyu.edu/2025notebooklm/), October 2025
+- Presenter, [Teaching Decision Literacy Through Discovery-Based Generative AI Simulation](https://wp.nyu.edu/ltt2026/talk-descriptions/), (Re)Designing Pedagogy for the GenAI Era, 2026
+- Principal Investigator, [AI Commuincation Compass](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr. Foundation, nationally selected (2025–)
+- Principal Investigator, [AI in Workforce Education](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants) (2024–2025)
+- Awardee, [Learning Tool Grant](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking (2021)
+- Co-founder, POD Network [AI in Education](https://podnetwork.org/governance/sigs/) Special Interest Group, 3,000+ members
+- Professional profile, [NYU Grossman School of Medicine](https://med.nyu.edu/faculty/yuliya-n-yoncheva)
 
 
-🌱 AI in Education Leadership
----------
-- Presenter, [(Re)Designing Pedagogy for the GenAI Era](https://wp.nyu.edu/ltt2026/talk-descriptions/), 2026
-- Moderator, [Teaching & Learning with AI symposium](https://wp.nyu.edu/2025notebooklm/), 2025
-- Presenter, [Learning to Teach with GenAI](https://wp.nyu.edu/ltt2025/detailed-schedule/), 2025
-- Presenter, inaugural [Teaching with Generative AI conference](https://wp.nyu.edu/2023aiconference/schedule), 2023
-- Policy advisor on institutional AI integration strategies, 2023-
-- Developer of [AI fluency](https://linktr.ee/AI.B.C) frameworks for educators and researchers, 2023-
-
-🌱 Recognition
---------
-- AI in Medical Education [grant](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr Foundation, 2025
-- Program for Medical Education Innovations & Research [grant](https://med.nyu.edu/departments-institutes/medicine/divisions/general-internal-medicine-clinical-innovation/program-medical-education-innovations-research/innovation-grants), 2024
-- Learning Tool [award](https://programs.clearerthinking.org/effective_trust_repair.html), Clearer Thinking, 2021
-- Phased-innovation award, National Institute of Mental Health, 2019
-
-🌱 Decision Education
----------
-- Grassroots peer group leader for decision science professionals
-- Peer-reviewed neuroscience study [Temporal discounting in youth](https://pubmed.ncbi.nlm.nih.gov/28411154/)
-- Invited expert, Child Study Center
-	- [How to teach better decision making](https://osf.io/j39nr)
-	- [Media literacy in GenAI era](https://osf.io/qmjwf)
- 
-
-
+  
+[Substack](https://open.substack.com/pub/yuliyayoncheva/p/escaping-the-ai-convenience-trap?r=22jisy) ❦ [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [LinkedIn](https://www.linkedin.com/in/yuliya-yoncheva/)
 
 
 <!--
