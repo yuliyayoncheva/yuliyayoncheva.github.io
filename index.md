@@ -4,7 +4,7 @@ I study whether AI-based feedback produces genuine learning or the appearance of
 
 I build frameworks designed to transfer across contexts where humans and AI systems share epistemic territory.
 
-🎥 **[Moderating The Research Track](https://wp.nyu.edu/2025notebooklm/)** @ Teaching & Learning with AI symposium (2025)
+🎥 **[Moderating the Research Track](https://wp.nyu.edu/2025notebooklm/)** @ Teaching & Learning with AI symposium (2025)
 
 **Presenter** [Teaching Decision Literacy Through Discovery-Based Generative AI Simulation](https://wp.nyu.edu/ltt2026/talk-descriptions/)  (Re)Designing Pedagogy for the GenAI Era (2026)  
 **Principal Investigator** [AI Communication Compass](https://macyfoundation.org/our-grantees/ai-in-med-ed)  Josiah Macy Jr. Foundation, nationally selected (2025)  
