@@ -1,8 +1,8 @@
 [Bio](/bio) | [Resources](/upcoming)
 
-I study whether AI-based feedback produces genuine learning or the appearance of it. My research spans two empirical threads the conditions under which AI feedback supports vs. erodes metacognitive calibration in graduate professional education, and the three-phase scaffolding of values-based decision-making under uncertainty.
+I study whether AI-based feedback produces genuine learning or the appearance of it. My research spans two empirical threads: the conditions under which AI feedback supports vs. erodes metacognitive calibration in graduate professional education, and the phased scaffolding of values-based decision-making under uncertainty.
 
-I build frameworks designed to transfer across contexts where humans and AI systems share epistemic territory.
+I build frameworks designed to transfer across contexts where humans and AI-powered systems share epistemic territory. 
 
 🎥 **[Moderating the Research Track](https://wp.nyu.edu/2025notebooklm/)** @ Teaching & Learning with AI symposium (2025)
 
