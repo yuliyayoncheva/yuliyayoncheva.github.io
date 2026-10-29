@@ -9,8 +9,8 @@ The gamut of instruments spans neuroimaging, randomized trials, and AI systems t
 
 **Principal Investigator** 
 
-[Communication Compass: AI-Enhanced Feedback System](https://macyfoundation.org/our-grantees/ai-in-med-ed), Josiah Macy Jr. Foundation, 1 of 3 nationally selected (2025-2027) <br>
-[The Empathy Project Stories Research](https://www.empathyproject.com/denise), 12-month follow-up (2024-now) Presenting at [Gold Humanism Summit](https://web.cvent.com/event/901f6f23-63b8-491f-9650-d428ca54730d/summary) <br>
+[Communication Compass: AI-Enhanced Feedback System](https://macyfoundation.org/grants/artificial-intelligence-in-medical-education/), Josiah Macy Jr. Foundation, 1 of 3 nationally selected (2025-2027) <br>
+[The Empathy Project Stories Research](https://www.empathyproject.com/denise), 12-month follow-up (2024-now) Presented at Gold Humanism Summit <br>
 [AI in Workforce Education](https://med.nyu.edu/faculty/yuliya-n-yoncheva), NYU PrMEIR (2024-2025) <br>
 
 **Community** 
