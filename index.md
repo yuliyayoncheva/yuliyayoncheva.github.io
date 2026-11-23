@@ -22,4 +22,4 @@ Awardee [Learning Tool Grant](https://programs.clearerthinking.org/effective_tru
 
 [contact](mailto:yuliya.yoncheva@nyulangone.org)
 
-[Substack](https://open.substack.com/pub/yuliyayoncheva/p/escaping-the-ai-convenience-trap?r=22jisy) ❦ [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [LinkedIn](https://www.linkedin.com/in/yuliya-yoncheva/)
+[Substack](https://yuliyayoncheva.substack.com/p/what-you-need?r=22jisy&utm_campaign=post-expanded-share&utm_medium=post%20viewer) ❦ [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuliya.yoncheva.2/bibliography/public/?sortby=author&sdirection=descending) ❦ [LinkedIn](https://www.linkedin.com/in/yuliya-yoncheva/)
